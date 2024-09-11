@@ -1,0 +1,12 @@
+Homework 1 
+limit number of data points;
+read document of function to try different arguments.
+
+Lecture 2
+symmetric return when trading across currencies regardless of how they are quoted?
+backtesting - continuously done
+
+strategy limitations - government intervention etc.
+
+ability to tell if a good model
+class presentation ~5 minutes <10 min
